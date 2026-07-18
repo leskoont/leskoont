@@ -2,6 +2,10 @@
 
 Я разработчик и студент, увлеченный **машинным обучением (ML)**, **компьютерным зрением (CV)**, созданием **ИИ-агентов**, автоматизацией и созданием удобных интерфейсов. Люблю копаться в железе, автоматизировать рутину и превращать сложные задачи в элегантные решения..
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leskoont&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 ### 👨‍💻 Обо мне
 
 - 🔭 Сейчас работаю над: интеграцией **CV-алгоритмов** и генеративных моделей в веб (React/Vite + Streamlit), проектированием асинхронных API на **FastAPI** и разработкой автономных ИИ-систем.
@@ -71,18 +75,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
----
-
-### 📈 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leskoont&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskoont&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
