@@ -78,10 +78,11 @@
 ### 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leskoont&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leskoont&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskoont&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leskoont&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
