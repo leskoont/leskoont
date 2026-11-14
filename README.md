@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm leskoont!
 
 I'm a developer and student passionate about **machine learning (ML)**, **computer vision (CV)**, building **AI agents**, automation, and crafting intuitive interfaces. I enjoy tinkering with hardware, automating routine tasks, and turning complex challenges into elegant solutions.
@@ -87,4 +86,3 @@ I'm a developer and student passionate about **machine learning (ML)**, **comput
   </a>
 </p>
 
-```
