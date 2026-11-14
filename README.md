@@ -1,19 +1,20 @@
-# Привет, я leskoont! 👋
+```markdown
+# Hi, I'm leskoont!
 
-Я разработчик и студент, увлеченный **машинным обучением (ML)**, **компьютерным зрением (CV)**, созданием **ИИ-агентов**, автоматизацией и созданием удобных интерфейсов. Люблю копаться в железе, автоматизировать рутину и превращать сложные задачи в элегантные решения..
+I'm a developer and student passionate about **machine learning (ML)**, **computer vision (CV)**, building **AI agents**, automation, and crafting intuitive interfaces. I enjoy tinkering with hardware, automating routine tasks, and turning complex challenges into elegant solutions.
 
-### 👨‍💻 Обо мне
+### About Me
 
-- 🔭 Сейчас работаю над: интеграцией **CV-алгоритмов** и генеративных моделей в веб (React/Vite + Streamlit), проектированием асинхронных API на **FastAPI** и разработкой автономных ИИ-систем.
-- 🌱 Глубоко погружаюсь в: микросервисную архитектуру, оркестрацию высоконагруженных систем сбора данных, безопасность Linux-окружений и методы анализа защищенности (AppSec / Offensive Security).
-- 💬 Спроси меня о: проектировании отказоустойчивой асинхронной архитектуры, развертывании тяжелых ML-сервисов в production-окружении, автоматизации распределенного сбора данных в условиях агрессивного противодействия, а также об аудите безопасности веб-приложений, reverse-engineering'е и поиске уязвимостей в инфраструктуре.
-- ⚡ В свободное время: читаю ML-исследования, вожу авторские кампании по **D&D** (Game Master) и ковыряю механики **Minecraft** (Forge).
+- **Currently working on:** integrating **CV algorithms** and generative models into the web (React/Vite + Streamlit), designing asynchronous APIs with **FastAPI**, and developing autonomous AI systems.
+- **Diving deep into:** microservice architecture, orchestrating high-load data collection systems, Linux environment security, and security analysis methods (AppSec / Offensive Security).
+- **Ask me about:** designing fault-tolerant asynchronous architectures, deploying heavy ML services in production environments, automating distributed data scraping under strict anti-bot countermeasures, as well as web application security audits, reverse engineering, and infrastructure vulnerability research.
+- **In my free time:** reading ML research papers, running custom **D&D** campaigns as a Game Master, and exploring **Minecraft** (Forge) mechanics.
 
 ---
 
-### 🛠 Технологии и Инструменты
+### Tech Stack & Tools
 
-**🧠 ИИ, Машинное обучение и Data Science**
+**AI, Machine Learning & Data Science**
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -24,7 +25,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-**🐍 Backend, Боты и Архитектура**
+**Backend, Bots & Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-**🌐 Frontend и Web UI**
+**Frontend & Web UI**
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,7 +48,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**⚙️ Автоматизация, парсинг и скрапинг (Automation, Scraping & Parsing)**
+**Automation, Scraping & Parsing**
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -59,14 +60,14 @@
   <img src="https://img.shields.io/badge/Regex-4A4A4A?style=for-the-badge&logo=javascript&logoColor=white" alt="Regex" />
 </p>
 
-**🐧 OS, Железо и DevOps**
+**OS, Hardware & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**🗄 Базы данных**
+**Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -75,7 +76,7 @@
 
 ---
 
-### 📫 Как со мной связаться
+### Get in Touch
 
 <p align="left">
   <a href="https://t.me/leskoont">
@@ -85,3 +86,5 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
 </p>
+
+```
